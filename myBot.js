@@ -10,4 +10,4 @@ botAst.on('message', message => {
     message.reply('ขอบคุณนะ มาสเตอร์');
   }
 });
-botAst.login('YOUR BOT TOKEN HERE!!!');
+botAst.login('MzEzMzAwOTU5MDQ2NDAyMDQ5.C_nrBQ.bavgh8WvqV6H9qMuWURPZjV7_PQ');
