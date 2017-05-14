@@ -1,5 +1,5 @@
 {
-  "name": "sample-bot",
+  "name": "Astolfo",
   "version": "0.0.1",
   "description": "Example discord bot by using discord.js",
   "main": "myBot.js",
