@@ -6,8 +6,8 @@ botAst.on('ready', () => {
 });
 //รอรับ event message เวลามีข้อความโผล่มาในแชท function นี้ก็จะทำงาน
 botAst.on('message', message => { 
-  if (message.content === 'Astolfo is so cute') {
-    message.reply('Thank you master!');
+  if (message.content === 'แอสโทลโฟน่ารักจังเลยน้า') {
+    message.reply('ขอบคุณนะ มาสเตอร์');
   }
 });
 botAst.login('MzEzMzAwOTU5MDQ2NDAyMDQ5.C_nrBQ.bavgh8WvqV6H9qMuWURPZjV7_PQ');
